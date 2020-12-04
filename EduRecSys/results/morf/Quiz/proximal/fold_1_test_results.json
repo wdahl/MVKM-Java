@@ -1,0 +1,1 @@
+{"markovian_steps":1,"skill_dim":3,"penalty_weight":0.1,"lambda_bias":0.0,"lambda_t":0.1,"lambda_s":0.0,"lambda_q":0.0,"top_k":3,"concept_dim":5,"start_attempt":1,"learning_rate":0.1,"max_iter":10,"end_attempt":25,"perf":{"mae":0.15888453159431226,"count":2217.0,"rmse":0.20175464677016636}}
